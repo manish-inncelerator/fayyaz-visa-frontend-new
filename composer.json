@@ -1,0 +1,26 @@
+{
+  "require": {
+    "catfan/medoo": "^2.1",
+    "google/apiclient": "^2.18",
+    "ramsey/uuid": "^4.7",
+    "phpmailer/phpmailer": "^6.9",
+    "jolicode/slack-php-api": "^4.7",
+    "symfony/http-client": "^7.2",
+    "nyholm/psr7": "^1.8",
+    "sameer-shelavale/php-countries-array": "^1.0",
+    "melbahja/seo": "^2.1",
+    "mikehaertl/phpwkhtmltopdf": "^2.5",
+    "tecnickcom/tcpdf": "^6.8",
+    "dompdf/dompdf": "^3.1",
+    "vinkla/hashids": "^13.0",
+    "phpmailer/phpmailer": "^6.9",
+    "league/oauth2-client": "^2.8",
+    "microsoft/microsoft-graph": "*"
+  },
+  "config": {
+    "allow-plugins": {
+      "php-http/discovery": true,
+      "tbachert/spi": true
+    }
+  }
+}

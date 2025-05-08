@@ -1,0 +1,29 @@
+[
+  {
+    "version": "MMXXV-II-XXIX",
+    "date": "2025-03-29",
+    "changes": [
+      "🎨 UI improvements",
+      "🔍 Added SEO friendly content",
+      "❓ Added FAQ section",
+      "📊 Added Google and other Analytics",
+      "🔍 Added sitemap.xml",
+      "🔍 Added robots.txt",
+      "🔍 Added Google Search Console",
+      "🔍 Added Google Analytics",
+      "🔍 Added Google Tag Manager",
+      "🔍 Improved Search Functionality?",
+      "🌏 Added countries to the website"
+    ]
+  },
+  {
+    "version": "MMXXV-II-XXVII",
+    "date": "2025-02-20",
+    "changes": [
+      "🚀 Added search functionality",
+      "📃 Added about and cancellation pages",
+      "📊 Added real stats for visa processing data",
+      "🎨 UI improvements and animations"
+    ]
+  }
+]
