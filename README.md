@@ -26,6 +26,8 @@ For example, if the existing directory is /visa_f/, update it to match your actu
 Ensure that the user_uploads folder exists in the project root:
 `mkdir user_uploads`
 
+Ensure that the invoice/invoices folder exists in the project root.
+
 This folder will store uploaded files.
 
 ### 📦 4. Install Dependencies
